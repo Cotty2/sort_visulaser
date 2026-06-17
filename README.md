@@ -109,7 +109,7 @@ pyinstaller --onefile --windowed --name SortVisualizer sort_visualizer_app.py
 
 ```text
 sort-visualizer/
-├── sort_visualizer_app.py
+├── main.py
 ├── README.md
 └── .github/
     └── workflows/
